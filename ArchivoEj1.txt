@@ -1,0 +1,3 @@
+Este es el paso 12 y 13 del Práctico 4:
+12.	Crear una archivo dentro de la localización del repositorio. 
+13.	Escribir algo en el archivo y guardarlo.
