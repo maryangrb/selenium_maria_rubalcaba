@@ -6,8 +6,8 @@ public class Ejercicio3 {
         System.out.println("Ingrese un numero: ");
         int num = input.nextInt();
 
-        int duplicar = calcularDoble (num);
-        System.out.println("El doble del número es " + duplicar);
+        int doble = calcularDoble (num);
+        System.out.println("El doble del número es " + doble);
     }
 
     public static int calcularDoble (int num){
