@@ -30,9 +30,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2819504a-6e54-4e6f-abfc-912060f2f935" name="Default Changelist" comment="">
+    <list default="true" id="2819504a-6e54-4e6f-abfc-912060f2f935" name="Default Changelist" comment="Cambio de nombre de variable 'duplicar' por comentario de Revisión">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,14 @@
       <option name="presentableId" value="Default" />
       <updated>1593473231939</updated>
     </task>
+    <task id="LOCAL-00001" summary="Cambio de nombre de variable 'duplicar' por comentario de Revisión">
+      <created>1593804075485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593804075485</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,5 +102,35 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cambio de nombre de variable 'duplicar' por comentario de Revisión" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambio de nombre de variable 'duplicar' por comentario de Revisión" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="932" height="220" key="GridCell.Tab.0.bottom" timestamp="1593803805034">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="932" height="220" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1593803805034" />
+    <state width="932" height="220" key="GridCell.Tab.0.center" timestamp="1593803805034">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="932" height="220" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1593803805034" />
+    <state width="932" height="220" key="GridCell.Tab.0.left" timestamp="1593803805033">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="932" height="220" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1593803805033" />
+    <state width="932" height="220" key="GridCell.Tab.0.right" timestamp="1593803805034">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="932" height="220" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1593803805034" />
+    <state x="640" y="161" key="Vcs.Push.Dialog.v2" timestamp="1593804104945">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="640" y="161" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1593804104945" />
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593805461258">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1593805461258" />
   </component>
 </project>
