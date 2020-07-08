@@ -30,7 +30,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2819504a-6e54-4e6f-abfc-912060f2f935" name="Default Changelist" comment="Cambio de nombre de variable 'duplicar' por comentario de Revisión" />
+    <list default="true" id="2819504a-6e54-4e6f-abfc-912060f2f935" name="Default Changelist" comment="Cambio de nombre de variable 'duplicar' por comentario de Revisión">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
