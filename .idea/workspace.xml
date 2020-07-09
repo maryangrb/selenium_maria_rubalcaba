@@ -57,7 +57,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Automotora">
+    <configuration name="Automotora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Automotora" />
+      <module name="proyectojava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio3" />
       <module name="proyectojava" />
@@ -67,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Automotora" />
         <item itemvalue="Application.Ejercicio3" />
       </list>
     </recent_temporary>
@@ -109,22 +117,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="Cambio de nombre de variable 'duplicar' por comentario de Revisión" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="932" height="220" key="GridCell.Tab.0.bottom" timestamp="1593803805034">
+    <state width="878" height="132" key="GridCell.Tab.0.bottom" timestamp="1594167721547">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="932" height="220" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1593803805034" />
-    <state width="932" height="220" key="GridCell.Tab.0.center" timestamp="1593803805034">
+    <state width="878" height="132" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594167721547" />
+    <state width="878" height="132" key="GridCell.Tab.0.center" timestamp="1594167721547">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="932" height="220" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1593803805034" />
-    <state width="932" height="220" key="GridCell.Tab.0.left" timestamp="1593803805033">
+    <state width="878" height="132" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1594167721547" />
+    <state width="878" height="132" key="GridCell.Tab.0.left" timestamp="1594167721547">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="932" height="220" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1593803805033" />
-    <state width="932" height="220" key="GridCell.Tab.0.right" timestamp="1593803805034">
+    <state width="878" height="132" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1594167721547" />
+    <state width="878" height="132" key="GridCell.Tab.0.right" timestamp="1594167721547">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="932" height="220" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1593803805034" />
+    <state width="878" height="132" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594167721547" />
     <state x="640" y="161" key="Vcs.Push.Dialog.v2" timestamp="1593804104945">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -133,5 +141,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1593805461258" />
+    <state x="248" y="190" key="refactoring.ChangeSignatureDialog" timestamp="1594086710387">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="248" y="190" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1594086710387" />
   </component>
 </project>
