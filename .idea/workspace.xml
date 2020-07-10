@@ -31,6 +31,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2819504a-6e54-4e6f-abfc-912060f2f935" name="Default Changelist" comment="Cambio de nombre de variable 'duplicar' por comentario de Revisión">
+      <change afterPath="$PROJECT_DIR$/src/GestionarProductos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Producto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +59,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Application.GestionarProductos">
+=======
   <component name="RunManager" selected="Application.Automotora">
     <configuration name="Automotora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Automotora" />
@@ -65,6 +70,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+>>>>>>> dev
     <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio3" />
       <module name="proyectojava" />
@@ -72,9 +78,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GestionarProductos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GestionarProductos" />
+      <module name="proyectojava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+        <item itemvalue="Application.GestionarProductos" />
+=======
         <item itemvalue="Application.Automotora" />
+>>>>>>> dev
         <item itemvalue="Application.Ejercicio3" />
       </list>
     </recent_temporary>
@@ -117,6 +134,24 @@
     <option name="LAST_COMMIT_MESSAGE" value="Cambio de nombre de variable 'duplicar' por comentario de Revisión" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
+    <state width="1557" height="231" key="GridCell.Tab.0.bottom" timestamp="1594248152992">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="231" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594248152992" />
+    <state width="1557" height="231" key="GridCell.Tab.0.center" timestamp="1594248152992">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="231" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1594248152992" />
+    <state width="1557" height="231" key="GridCell.Tab.0.left" timestamp="1594248152991">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="231" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1594248152991" />
+    <state width="1557" height="231" key="GridCell.Tab.0.right" timestamp="1594248152992">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="231" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594248152992" />
+=======
     <state width="878" height="132" key="GridCell.Tab.0.bottom" timestamp="1594167721547">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -133,6 +168,7 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="878" height="132" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594167721547" />
+>>>>>>> dev
     <state x="640" y="161" key="Vcs.Push.Dialog.v2" timestamp="1593804104945">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
