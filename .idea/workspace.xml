@@ -57,7 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Automotora">
+  <component name="RunManager" selected="Application.Libreria">
     <configuration name="Automotora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Automotora" />
       <module name="proyectojava" />
@@ -72,8 +72,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Libreria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Libreria" />
+      <module name="proyectojava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Libreria" />
         <item itemvalue="Application.Automotora" />
         <item itemvalue="Application.Ejercicio3" />
       </list>
@@ -117,22 +125,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="Cambio de nombre de variable 'duplicar' por comentario de Revisión" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="878" height="132" key="GridCell.Tab.0.bottom" timestamp="1594167721547">
+    <state x="229" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1594255949084">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="878" height="132" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594167721547" />
-    <state width="878" height="132" key="GridCell.Tab.0.center" timestamp="1594167721547">
+    <state x="229" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1594255949084" />
+    <state width="884" height="210" key="GridCell.Tab.0.bottom" timestamp="1594296319461">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="878" height="132" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1594167721547" />
-    <state width="878" height="132" key="GridCell.Tab.0.left" timestamp="1594167721547">
+    <state width="884" height="210" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594296319461" />
+    <state width="884" height="210" key="GridCell.Tab.0.center" timestamp="1594296319461">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="878" height="132" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1594167721547" />
-    <state width="878" height="132" key="GridCell.Tab.0.right" timestamp="1594167721547">
+    <state width="884" height="210" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1594296319461" />
+    <state width="884" height="210" key="GridCell.Tab.0.left" timestamp="1594296319461">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="878" height="132" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594167721547" />
+    <state width="884" height="210" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1594296319461" />
+    <state width="884" height="210" key="GridCell.Tab.0.right" timestamp="1594296319461">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="884" height="210" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594296319461" />
     <state x="640" y="161" key="Vcs.Push.Dialog.v2" timestamp="1593804104945">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
