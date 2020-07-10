@@ -81,14 +81,14 @@ public class Producto {
         }
         */
 
-        tipoProd= ((this.importado==true)?"Este producto es importado":"Producto nacional");
+        tipoProd= ((this.importado==true)?"Este producto es importado ":"Producto nacional ");
 
         return "Producto de nombre " + this.getNombre() + ", con un codigo " + this.getCodigo()
                 + ", con un lote " + this.getNroLote() + ", con un numero de producto " +
-                this.getNroProducto() + ". "+tipoProd;
+                this.getNroProducto() + ". "+tipoProd + Producto.IDENTIFICADOR;
     }
 
     public boolean isImportado(Producto impProducto) {
-        return importado;
+        return impProducto.importado;
     }
 }
