@@ -13,6 +13,16 @@
       </path>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:practico5" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:practico6" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
       <path>
@@ -26,13 +36,24 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:practico4" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:practico5" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2819504a-6e54-4e6f-abfc-912060f2f935" name="Default Changelist" comment="Cambio de nombre de variable 'duplicar' por comentario de Revisión">
-      <change afterPath="$PROJECT_DIR$/src/GestionarProductos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Producto.java" afterDir="false" />
+    <list default="true" id="ed3ab5c7-401f-4425-886d-44ed47014a3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/selenium_maria_rubalcaba.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,17 +61,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1e0zKANElU3F3jiUFTa5mYyTtoJ" />
+  <component name="ProjectId" id="1eeR86nIqWjUNxaUwWQ1z7AtNSD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,41 +72,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.GestionarProductos">
-=======
-  <component name="RunManager" selected="Application.Automotora">
-    <configuration name="Automotora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Automotora" />
-      <module name="proyectojava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
->>>>>>> dev
-    <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicio3" />
-      <module name="proyectojava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GestionarProductos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GestionarProductos" />
-      <module name="proyectojava" />
+  <component name="RunManager">
+    <configuration name="EjerciciosListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosListas" />
+      <module name="selenium_maria_rubalcaba" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.GestionarProductos" />
-=======
-        <item itemvalue="Application.Automotora" />
->>>>>>> dev
-        <item itemvalue="Application.Ejercicio3" />
+        <item itemvalue="Application.EjerciciosListas" />
       </list>
     </recent_temporary>
   </component>
@@ -101,20 +93,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2819504a-6e54-4e6f-abfc-912060f2f935" name="Default Changelist" comment="" />
-      <created>1593473231939</created>
+      <changelist id="ed3ab5c7-401f-4425-886d-44ed47014a3d" name="Default Changelist" comment="" />
+      <created>1594679909665</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593473231939</updated>
+      <updated>1594679909665</updated>
     </task>
-    <task id="LOCAL-00001" summary="Cambio de nombre de variable 'duplicar' por comentario de Revisión">
-      <created>1593804075485</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1593804075485</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,59 +111,23 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Cambio de nombre de variable 'duplicar' por comentario de Revisión" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambio de nombre de variable 'duplicar' por comentario de Revisión" />
   </component>
   <component name="WindowStateProjectService">
-<<<<<<< HEAD
-    <state width="1557" height="231" key="GridCell.Tab.0.bottom" timestamp="1594248152992">
+    <state width="931" height="244" key="GridCell.Tab.0.bottom" timestamp="1594686979749">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="231" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594248152992" />
-    <state width="1557" height="231" key="GridCell.Tab.0.center" timestamp="1594248152992">
+    <state width="931" height="244" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594686979749" />
+    <state width="931" height="244" key="GridCell.Tab.0.center" timestamp="1594686979749">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="231" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1594248152992" />
-    <state width="1557" height="231" key="GridCell.Tab.0.left" timestamp="1594248152991">
+    <state width="931" height="244" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1594686979749" />
+    <state width="931" height="244" key="GridCell.Tab.0.left" timestamp="1594686979748">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="231" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1594248152991" />
-    <state width="1557" height="231" key="GridCell.Tab.0.right" timestamp="1594248152992">
+    <state width="931" height="244" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1594686979748" />
+    <state width="931" height="244" key="GridCell.Tab.0.right" timestamp="1594686979749">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="231" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594248152992" />
-=======
-    <state width="878" height="132" key="GridCell.Tab.0.bottom" timestamp="1594167721547">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="878" height="132" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594167721547" />
-    <state width="878" height="132" key="GridCell.Tab.0.center" timestamp="1594167721547">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="878" height="132" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1594167721547" />
-    <state width="878" height="132" key="GridCell.Tab.0.left" timestamp="1594167721547">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="878" height="132" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1594167721547" />
-    <state width="878" height="132" key="GridCell.Tab.0.right" timestamp="1594167721547">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="878" height="132" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594167721547" />
->>>>>>> dev
-    <state x="640" y="161" key="Vcs.Push.Dialog.v2" timestamp="1593804104945">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="640" y="161" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1593804104945" />
-    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593805461258">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1593805461258" />
-    <state x="248" y="190" key="refactoring.ChangeSignatureDialog" timestamp="1594086710387">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="248" y="190" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1594086710387" />
+    <state width="931" height="244" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594686979749" />
   </component>
 </project>
