@@ -2,7 +2,8 @@ public class Developer extends Empleado{
 
     private String lenguaje;
 
-    public Developer(String unLenguaje){
+    public Developer(String unNombre, int unTelefono, float unSueldo,String unLenguaje){
+        super (unNombre, unTelefono,unSueldo);
         this.lenguaje = unLenguaje;
     }
     public String getLenguaje(){
@@ -13,7 +14,8 @@ public class Developer extends Empleado{
     }
 
     public String toString(){
-        return "Su lenguaje es " + this.getLenguaje();
+        //llamar al toString de la clase padre
+        return super.toString() + ". Su lenguaje es " + this.getLenguaje();
     }
 
 }

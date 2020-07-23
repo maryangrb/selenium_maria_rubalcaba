@@ -12,25 +12,26 @@ public class Persona {
     public Persona(String unNombre, int unCI, int unEdad){
         this.nombre = unNombre;
         this.ci = unCI;
+        this.edad = unEdad; //si comento la edad, cdo imprimo me sale 0
     }
 
     //setter y getter para cada atributo
     public String getNombre() {
-        return nombre;
+        return this.nombre;
     }
     public void setNombre(String unNombre) {
         this.nombre = unNombre;
     }
 
     public int getCi() {
-        return ci;
+        return this.ci;
     }
     public void setCedula (int unCI) {
         this.ci = unCI;
     }
 
     public int getEdad() {
-        return edad;
+        return this.edad;
     }
     public void setEdad (int unEdad) {
         this.edad = unEdad;
@@ -38,8 +39,7 @@ public class Persona {
 
     //toString
     public String toString(){
-        return "Tiene un nombre " + this.getNombre() + ", con un CI " + this.getCi() + " y una edad " + this.getEdad();
+        return "Nombre de la persona: " + this.getNombre() + ", con un CI " + this.getCi() + " y una edad " + this.getEdad();
     }
-
 
 }

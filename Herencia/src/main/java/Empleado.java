@@ -36,10 +36,6 @@ public class Empleado {
     }
 
     public String toString (){
-        return "Nombre del empleado: " + this.getNombre() + ". Telefono " + this.getTelefono();
+        return "Nombre del empleado: " + this.getNombre() + ". Telefono " + this.getTelefono() + ". Sueldo de: " + this.getSueldo();
     }
-
-
-
-
 }

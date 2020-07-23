@@ -2,7 +2,8 @@ public class Manager extends Empleado{
 
     private String area;
 
-    public Manager(String unArea){
+    public Manager(String unNombre, int unTelef, float unSueldo,String unArea){
+        super(unNombre, unTelef, unSueldo);
         this.area = unArea;
     }
 
@@ -15,6 +16,7 @@ public class Manager extends Empleado{
     }
 
     public String toString(){
-        return "Su area es " + this.getArea();
+        //llamar al toString de la clase padre
+        return super.toString() + ". Su area es " + this.getArea();
     }
 }
