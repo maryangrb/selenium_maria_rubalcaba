@@ -34,14 +34,10 @@ public class Producto {
         return "Nombre del producto: " + this.getNombre() + ". Precio del producto: " + this.getPrecio();
     }
 
-   /* public static float calcular(){
-        int cantProd = 0;
+    public float calcular(int cant){
 
-       // float calcProd = cantProd * this.getPrecio();
-        return ;
-
-
-    }*/
+        return cant * this.precio;
+    }
 
 }
 
