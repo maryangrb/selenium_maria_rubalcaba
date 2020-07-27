@@ -29,15 +29,15 @@ public class Perecedero extends Producto {
 
 
     public float calcular(int cant) {
-        float result=0;
+        float calcPrecioReducido=0;
         if (this.diasACaducar == 1) {
-            result = (this.getPrecio() / 4) * cant;
+            calcPrecioReducido = (this.getPrecio() / 4) * cant;
         } else if (this.diasACaducar == 2) {
-            result = (this.getPrecio() / 3) * cant;
+            calcPrecioReducido = (this.getPrecio() / 3) * cant;
         } else if (this.diasACaducar == 3) {
-            result = (this.getPrecio() / 2) * cant;
+            calcPrecioReducido = (this.getPrecio() / 2) * cant;
         }
-            return result;
+            return calcPrecioReducido;
         }
 
     }
