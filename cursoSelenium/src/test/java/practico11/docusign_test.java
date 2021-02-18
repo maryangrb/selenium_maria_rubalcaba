@@ -34,7 +34,6 @@ public class docusign_test {
         industry.selectByValue("Education");
     }
 
-
     //Completar todos los campos usando el xpath sugerido por el explorador
     @Test
     public void defaultxPath(){
@@ -50,6 +49,4 @@ public class docusign_test {
         industry.selectByValue("Education");
 
     }
-
-
 }
